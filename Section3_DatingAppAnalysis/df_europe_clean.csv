@@ -1,0 +1,396 @@
+ID,Number of conversations,Average Conversation Length,Average Conversation Length in Days,Number of ghostings after 1st message,Number of matches,Minimum of Age filter,Maximum of Age filter,Country,Education,Gender,Interests in gender,instagram,Job title,Age,Group
+00b74e27ad1cbb2ded8e907fcc49eaaf,739,8.56,10.24,66,3408,21,35,Norway,Has high school and/or college education,Men,Interest in Women,FALSE,Unknown,40,Age group 36-51
+1f4873925d958cab973bc21385bc956e,62,12.6,2.02,1,112,18,19,Belgium,Has no high school or college education,Men,Interest in Women,TRUE,Unknown,18,Age group 14-25
+532f0eaeccfd3cfc16c3f19c01986d37,624,9.14,10.01,54,3316,21,35,Norway,Has high school and/or college education,Men,Interest in Women,FALSE,FALSE,18,Age group 14-25
+5862323c0e2699aad17a79418a0709a6,471,5.49,2.07,52,1370,18,28,France,Has no high school or college education,Men,Interest in Women,FALSE,Product designer,21,Age group 14-25
+59ac56fc75373a1228759057df2aa401,16,13.12,1.05,2,29,22,31,France,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,29,Age group 26-35
+72bbe06cfd45e7607593a2b21038eccc,157,8.24,12.14,5,249,18,30,United Kingdom,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,24,Age group 14-25
+75fc16a59b2f777aa2c616dc3d58188e,73,13.51,0.5,1,141,18,21,France,Has no high school or college education,Men,Interest in Women,TRUE,Unknown,19,Age group 14-25
+7921cd7e02c0ca9c32615ec7b25d9cac,8,7.75,2.06,1,249,18,28,Finland,Has high school and/or college education,Men,Interest in Women,FALSE,Web developer,20,Age group 14-25
+8077faeaa4104af4f88db4c660e90371,275,7.95,10.99,27,624,26,42,Germany,Has high school and/or college education,Women,Interest in Men,TRUE,Unknown,29,Age group 26-35
+9c16cf2b40aaf1a2b0b535d80f041eb6,332,6.36,1.81,3,534,20,35,Norway,Has no high school or college education,Men,Interest in Women,FALSE,Student,25,Age group 36-51
+a89268f6a1fae754a687a2105a9427a5,24,24.46,2.97,0,146,26,34,Ireland,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,29,Age group 26-35
+a4af1796e32b82dca8227c1f92fddcd0,16,2.69,4.28,1,58,18,32,Denmark,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,22,Age group 14-25
+c97effa10b4dca25b7ca4f4ad9388706,52,9.08,4.47,0,85,20,27,Denmark,Has no high school or college education,Men,Interest in Women,TRUE,Unknown,24,Age group 14-25
+be87c1716696efa264b76418054bb358,176,7.61,3.4,28,873,20,27,Norway,Has no high school or college education,Men,Interest in Women,TRUE,Software engineer,24,Age group 14-25
+ec8e335c7f9c46f2719b4e95276b9213,5,2.8,33.32,0,12,18,30,Germany,Has high school and/or college education,Men,Interest in Women,FALSE,Unknown,20,Age group 14-25
+dcbbdea918ea83820eef63a0f07bbfb2,163,6.8,1.35,1,242,18,35,Germany,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,25,Age group 36-51
+f1c77c17da0b2d947fae38d917c0d535,5,48.6,0.62,0,6,18,21,France,Has no high school or college education,Men,Interest in Women,TRUE,Unknown,19,Age group 14-25
+e33a8d4fe34f9a7769b2b7db9d655655,91,19.18,8.31,4,132,23,35,Switzerland,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,32,Age group 26-35
+1429e542fc9135be6f100bac9766c698,14,39.79,1.05,1,17,18,30,Hungary,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,27,Age group 26-35
+af76185e511a45328a4cd6a7c5360fff,18,22.06,4.73,0,22,18,35,Germany,Has no high school or college education,Men,Interest in Women,TRUE,Unknown,26,Age group 26-35
+00b113ee72d90509f1ae8589044076ee,0,0,0,0,2023,18,80,Czechia,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,21,Age group 14-25
+ffc7f549d9a2899b7e70e3df5ff6e60a,113,12.93,2.58,1,865,21,45,United Kingdom,Has high school and/or college education,Men,Interest in Women,TRUE,FALSE,19,Age group 14-25
+6d172ab71f6eeef43aa3ab44c4d62370,4,1.75,0.11,0,16,18,80,United Kingdom,Has no high school or college education,Men,Interest in Women,TRUE,Unknown,23,Age group 14-25
+5b0b399591447ee8ce275a65110f24ee,20,12.5,1.24,1,80,20,34,Switzerland,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,33,Age group 26-35
+d22fd43e901d0df2863a37aa30124efe,8,2.75,0.07,0,66,18,80,Denmark,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,21,Age group 14-25
+d22411b401188b0b0c2c45ba92b8972e,396,14.76,2.36,1,369,20,29,France,Has no high school or college education,Men,Interest in Women,FALSE,Engineer,22,Age group 14-25
+632c58b5b9133f5dca41072a72580fef,52,11.35,5.43,2,338,18,35,Germany,Has no high school or college education,Men,Interest in Women,FALSE,Plant mechanic,27,Age group 26-35
+8f8a4664e2aa864c7caac3985d0c3e17,16,3.5,1.14,2,83,18,23,United Kingdom,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,18,Age group 14-25
+be8c35f06750bb3ad85a42c2ac78758f,5,1.2,2.85,0,6,18,80,United Kingdom,Has no high school or college education,Men,Interest in Women,TRUE,Unknown,30,Age group 26-35
+6c52e08c0a920a57a084c86d87a9066f,130,15.87,2.81,15,626,21,26,Denmark,Has no high school or college education,Men,Interest in Women,TRUE,App developer,27,Age group 26-35
+680fa4029c2d090d3c2ee945496aca7d,37,5.08,1.43,1,63,20,26,Italy,Has high school and/or college education,Men,Interest in Women,FALSE,Unknown,20,Age group 14-25
+8eb3b732db9c00778a6047a8dd05313e,16,24.75,0.96,0,53,19,30,Italy,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,25,Age group 36-51
+e1df56bf40d5703bd7e6d40aee334ed5,37,5.41,11.52,2,84,26,32,Germany,Has no high school or college education,Men,Interest in Women,TRUE,Unknown,32,Age group 26-35
+f9bab999efee72cbd1ec283eba91e380,1,8,3.04,0,1,19,24,Netherlands,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,24,Age group 14-25
+7fe6fd221a98fc8015857bf5cb10a86c,272,12.33,1.87,34,2560,18,80,Ireland,Has no high school or college education,Men,Interest in Women,FALSE,Software engineer intern,20,Age group 14-25
+8b2cc3b1641bc7e1845e551b71b248d3,0,0,0,0,0,18,32,United Kingdom,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,24,Age group 14-25
+35670dfa1d89253d11481f45a8594db5,479,4.97,2.8,157,721,25,33,Hungary,Has no high school or college education,Women,Interest in Men,TRUE,Unknown,26,Age group 26-35
+5449290fde2906e39d4eb782f7b6e766,33,12.55,4.79,12,284,23,32,Norway,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,30,Age group 26-35
+36da7fa21516e9a39a486b4f8d2d52e6,3,1.33,4.63,0,3,21,29,Poland,Has no high school or college education,Men,Interest in Women,FALSE,Mechanical engineer,27,Age group 26-35
+cc522f935e499cd6a045f9aa8272ccbf,104,26.44,2.23,0,132,23,31,Hungary,Has no high school or college education,Men,Interest in Women,TRUE,Software engineer,30,Age group 26-35
+4346578362f180855921ae43a5b6e926,14,17.79,1.43,5,97,18,22,Lithuania,Has no high school or college education,Men,Interest in Women,FALSE,Graphiste motion designer,23,Age group 14-25
+507be9dcb7b5d3971a41354fdb0a7c7f,49,5.69,3.45,7,354,20,27,Denmark,Has high school and/or college education,Men,Interest in Women,FALSE,Unknown,22,Age group 14-25
+0eca8093c25f83a8c999a592c14add05,324,9.83,2.39,4,615,22,39,Denmark,Has high school and/or college education,Men,Interest in Women,FALSE,Unknown,22,Age group 14-25
+3f8166a48951dbb51398d398e1e828ba,37,7.51,1.93,1,138,19,30,Russia,Has no high school or college education,Women,Interest in Women,FALSE,Unknown,23,Age group 14-25
+45d44657a09d7b90d383e914111cdbae,374,3.4,16.98,21,468,18,32,Austria,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,32,Age group 26-35
+f594228269d51cc0fa1819b473ede164,102,1.05,0.12,68,2293,20,29,Germany,Has no high school or college education,Men,Interest in Women,TRUE,Energy trader,19,Age group 14-25
+afe1ef897ae224083e53f690433cc829,34,14.91,1.06,0,40,18,25,Poland,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,27,Age group 26-35
+2baa63ddfcbc269a7898c38f7e62d4ac,87,11.24,2.24,22,374,22,26,Sweden,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,22,Age group 14-25
+82f87ac7eeb030c8bbe7c93d1c9b6565,25,19.64,0.25,0,24,20,26,Poland,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,23,Age group 14-25
+f868fe9067f22447a103c70714e4944d,0,0,0,0,0,18,22,Croatia,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,20,Age group 14-25
+60d8c4278ba74a4739eb420d70f76111,22,5.59,0.24,8,115,18,24,United Kingdom,Has no high school or college education,Men,Interest in Men and Women,FALSE,Environmental science student,20,Age group 14-25
+c06f7aed0e4639ad40d74bf1d68d9cba,66,15,3.62,0,77,20,30,France,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,27,Age group 26-35
+185c440c8ee6e6838e2ae7e77622cebc,70,8.27,0.87,2,92,18,30,Italy,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,24,Age group 14-25
+25374d2986c28379050fd6a3a949fd7e,12,11.42,1.1,0,30,18,26,Netherlands,Has high school and/or college education,Men,Interest in Women,FALSE,Researcher,22,Age group 14-25
+1a92c2bc439b6173c5daba0e36fb0151,944,2.33,2.75,268,2956,25,45,Germany,Has high school and/or college education,Women,Interest in Men and Women,FALSE,Intern,23,Age group 14-25
+050e75190335559b0c53337f0dabe429,123,5.11,1.6,1,182,18,36,United Kingdom,Has high school and/or college education,Men,Interest in Women,FALSE,Master international business,20,Age group 14-25
+a0353bd4ddd456f81de665afebaf060f,78,15.27,5.97,0,355,18,32,Hungary,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,22,Age group 14-25
+98c3b63ea8f1fff1e49225727ac2821b,8,2.38,0.62,0,14,18,23,France,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,18,Age group 14-25
+83d673999e9f08505461f6c4e88050fe,59,6.14,13.74,1,113,19,28,Sweden,Has no high school or college education,Men,Interest in Women,FALSE,Systemvetare,22,Age group 14-25
+ad4141e0d850a19455400e44de33b523,263,8.78,1.3,3,390,25,30,United Kingdom,Has no high school or college education,Men,Interest in Women,TRUE,Technical software architect,26,Age group 26-35
+8bc1746aeee49cef184877aa18c344df,96,12.75,15.89,0,105,21,29,Finland,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,25,Age group 36-51
+fb28c968ca166e72d1519d1b2549c277,622,6.94,9.91,19,1523,21,55,Norway,Has high school and/or college education,Men,Interest in Women,FALSE,Unknown,21,Age group 14-25
+bfa41638f5de552bbe8a8d96b77eef1b,97,5.94,1.66,3,136,26,46,Finland,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,31,Age group 26-35
+ae2b1e804da9c20f6c50b18140a41f18,73,17.52,3.78,0,97,19,23,Poland,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,20,Age group 14-25
+fa80d186a0ff64f0c1abde2d06ab7552,62,13.9,2.6,2,221,23,31,Sweden,Has no high school or college education,Men,Interest in Women,FALSE,Software engineer,25,Age group 36-51
+3c311f41d91cc091a225a1d448f74ee9,81,35.53,3.48,1,151,18,40,Germany,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,30,Age group 26-35
+4d7fd840744000363cb6dc8d12721279,8,21.25,2.92,0,28,20,25,Switzerland,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,22,Age group 14-25
+2bcdaf372d5d58aae7344dba7cb4fcb5,23,80.04,7.34,0,60,20,24,Finland,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,22,Age group 14-25
+4dbb4c91b677a4a8cadcb27a3122c93a,89,6,3.68,13,637,18,38,Finland,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,26,Age group 26-35
+0bc12445a88a90393bbc1e45047b0ee7,65,3.42,1.32,1,149,20,24,Switzerland,Has no high school or college education,Men,Interest in Women,FALSE,"Philosophie, design, theater",23,Age group 14-25
+65a9b8d851c6336db44a6f4e5dc0b4db,22,19.32,2.95,0,32,28,32,Netherlands,Has no high school or college education,Men,Interest in Women,FALSE,Video engineer,36,Age group 36-51
+499576b9ebd6e28e253e665f21829d19,5,7.4,13.12,1,24,22,30,Netherlands,Has no high school or college education,Men,Interest in Men,FALSE,Unknown,24,Age group 14-25
+1a80f3abfb235c0e3e9e630763698fd2,100,20.06,12.83,3,683,21,29,Germany,Has high school and/or college education,Men,Interest in Women,FALSE,Ingenieur,27,Age group 26-35
+4e9d4f143860a7bc22ea7a1a8d14638b,2,26.5,0.52,0,3,20,29,Slovakia,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,29,Age group 26-35
+bd02b0a96c7139e5f609596fadf329ae,221,52.13,3.49,0,266,32,42,Belgium,Has no high school or college education,Men,Interest in Women,TRUE,Unknown,35,Age group 26-35
+2760326312b334a80234ec5b6ded7b2f,288,12.53,0.66,52,854,18,45,Switzerland,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,30,Age group 26-35
+42e7f8dfe8d07e007fe0246d1ee83304,147,6.93,1.22,1,332,18,30,Sweden,Has no high school or college education,Men,Interest in Women,TRUE,App developer,22,Age group 14-25
+d77aa4efd4a8ecde857ee3dee89f3a23,5,5.4,0.14,0,26,20,25,Romania,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,20,Age group 14-25
+2d09cfd5903ed3cdc3f8803b726ff90b,386,16.99,4.07,1,552,21,23,Czechia,Has no high school or college education,Men,Interest in Women,FALSE,Pharmaceutical analyst,24,Age group 14-25
+915456f4714bdb4d7e1b141a896cab1d,251,7.82,0.8,3,356,18,24,Russia,Has high school and/or college education,Men,Interest in Women,FALSE,Unknown,18,Age group 14-25
+00ff275ea954e6564836e1375c31ce25,114,11.06,1.45,4,503,20,24,Ireland,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,19,Age group 14-25
+d1a37c112405d456f8119556194dd30c,22,5.73,0.72,0,43,34,38,Germany,Has no high school or college education,Women,Interest in Men,FALSE,Unknown,30,Age group 26-35
+9d1f74d5e4e3cee5fb5ce861a074da49,15,5.8,1.1,1,24,26,31,Netherlands,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,27,Age group 26-35
+b9c40e100cb37b69a548fa01f42822f5,25,18.76,3.47,1,68,24,28,United Kingdom,Has no high school or college education,Women,Interest in Men,TRUE,Audit associate,24,Age group 14-25
+caccace70211eebbd30d84575d178b39,14,16.71,6.06,0,97,20,26,Germany,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,22,Age group 14-25
+d7ca129d2d6ee9a14f11a8496d78ea00,52,5.23,2.85,1,142,21,28,Sweden,Has no high school or college education,Men,Interest in Women,FALSE,FALSE,24,Age group 14-25
+ae91ea66e5bd032df74b558c32484d78,38,6.39,3.73,0,47,27,36,Germany,Has no high school or college education,Men,Interest in Women,FALSE,It engineer,35,Age group 26-35
+ae9e965241bd5cf15f91297167525b6c,292,7.5,4,18,739,20,33,Sweden,Has high school and/or college education,Men,Interest in Women,TRUE,FALSE,19,Age group 14-25
+58176e5c0af83a48a99dbac8df9eabcf,1076,6.27,10.68,149,1668,18,49,United Kingdom,Has high school and/or college education,Men,Interest in Women,TRUE,Unknown,25,Age group 36-51
+ec6ebd712e06ce8df818e6e92f4df1ae,1,1,0,0,1,18,25,Germany,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,23,Age group 14-25
+3ebb44df0d67de51a8842dced9542eed,16,5.62,1.6,0,16,18,34,France,Has high school and/or college education,Men,Interest in Women,TRUE,Statistic processing officer,24,Age group 14-25
+9bca32cc2ad2e09eb4a5e90655e6549d,14,9.93,0.59,1,64,21,27,Denmark,Has no high school or college education,Women,Interest in Men,FALSE,Writer,21,Age group 14-25
+89b05942b33bdb2a9c5c4939dcc1313f,51,16.88,2.46,0,50,18,29,Finland,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,19,Age group 14-25
+824ab63b2559e2f8cc5f2d3163e7fe71,85,14.78,2.28,1,115,20,32,Spain,Has no high school or college education,Men,Interest in Women,TRUE,Web developer,27,Age group 26-35
+1f88e513e2b81c827a93ca422453d933,4,1.5,0.46,0,11,18,18,Germany,Has no high school or college education,Men,Interest in Women,FALSE,30 euros away from collecting bottles,20,Age group 14-25
+a83b9b11e06f8e0b94d4a19e8ae92a89,39,9.15,1.78,0,50,21,26,Estonia,Has no high school or college education,Men,Interest in Women,FALSE,Software developer,23,Age group 14-25
+cecaf0ee033fe611ef0bf35cdaaf07ac,135,26.1,14.22,4,200,18,57,Netherlands,Has no high school or college education,Men,Interest in Women,TRUE,Unknown,29,Age group 26-35
+31267a3f91f5dbdbd43dc75fba262d1c,40,10.05,13.33,5,184,19,25,United Kingdom,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,18,Age group 14-25
+4ce50c347fd63f270f66a8ea094fbd14,139,12.22,1.33,4,154,22,35,Switzerland,Has no high school or college education,Men,Interest in Women,FALSE,Manager,28,Age group 26-35
+de422c8b3806dbf27f23fbcbe8ef713b,9,5,1.5,0,15,20,25,Switzerland,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,24,Age group 14-25
+56f9986765e7708d00a6c574f8b1b4eb,75,7.32,3.46,1,108,20,23,Italy,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,22,Age group 14-25
+9b0acdb1fcbeb08ee1e51fc749196dd7,111,4.66,1.25,12,441,18,22,Netherlands,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,18,Age group 14-25
+0573c4647e45ca04cc6b6e75d9d8242f,4,18,0.09,0,4,23,40,Romania,Has no high school or college education,Men,Interest in Women,FALSE,Developer,28,Age group 26-35
+f41c5effa65ab0793f9dc36db8cff524,30,4.87,2.73,6,177,21,28,United Kingdom,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,21,Age group 14-25
+49554bf9239a2ad19768763ac49b66eb,2,5.5,92.71,0,3,24,38,Germany,Has no high school or college education,Men,Interest in Women,FALSE,"Trust me, i am a engineer",28,Age group 26-35
+34f471c8b8c91654921c727510a7e160,287,3.83,1.22,7,510,23,35,Poland,Has no high school or college education,Men,Interest in Women,TRUE,Unknown,32,Age group 26-35
+9a126baf4cbfb680bbf12600b9e1f9cd,404,8.39,4.81,137,1202,23,36,Norway,Has high school and/or college education,Women,Interest in Men,FALSE,Web designer,18,Age group 14-25
+f6cd8681f212bee73b9c6d2432735243,290,3.8,19.55,18,961,18,28,Belgium,Has high school and/or college education,Men,Interest in Women,FALSE,Unknown,19,Age group 14-25
+0e517b74ab2def0782a63f409078f923,6,2,0.3,2,16,30,41,Belgium,Has no high school or college education,Men,Interest in Women,TRUE,Website programmeur,41,Age group 36-51
+6616736cf6e7b84613d47f1fc01588be,76,6.79,26.3,0,129,21,28,Netherlands,Has no high school or college education,Men,Interest in Women,FALSE,FALSE,18,Age group 14-25
+26c484be043596d15f4908e363b9df3a,2,50,4.51,0,2,18,25,Italy,Has no high school or college education,Men,Interest in Women,FALSE,Biomedical engineering student,19,Age group 14-25
+18e412f7b94d3b541c05842f6bd7ac0c,4,22.5,1.78,0,5,20,27,Sweden,Has no high school or college education,Men,Interest in Women,FALSE,Servicedesk,23,Age group 14-25
+54c3e8a1dad6af2797dbf3f1b5da61c9,0,0,0,0,0,18,38,France,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,28,Age group 26-35
+ea448a3d41133950d78a43b66d417a2c,48,2.06,0.97,5,250,18,95,Czechia,Has no high school or college education,Men,Interest in Women,FALSE,Software engineer,20,Age group 14-25
+74ac8893732af3cff81b43a6dbd5e1d6,15,2.53,1.83,1,17,22,32,Austria,Has no high school or college education,Men,Interest in Women,FALSE,Devops engineer,28,Age group 26-35
+e7d4e744902e9c2cd27e97b8af88a8fd,27,8.85,2.14,4,98,19,24,Austria,Has no high school or college education,Men,Interest in Women,TRUE,Webdesigner & developer,22,Age group 14-25
+cb23d739d6941438c99fdddceaf50c2a,4,271.25,34.84,0,15,24,38,Spain,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,27,Age group 26-35
+9febc1b852dcadd105006b0d058bfc7a,26,4.08,0.29,0,41,20,36,Netherlands,Has no high school or college education,Men,Interest in Women,TRUE,Unknown,29,Age group 26-35
+89629a6c4a3d945c113e948418b8653b,10,3.3,1.71,0,18,18,23,Sweden,Has no high school or college education,Men,Interest in Women,FALSE,FALSE,20,Age group 14-25
+e9b04ea73ae293a99493dc717a13d1b4,84,4.27,4.11,3,148,19,29,Switzerland,Has no high school or college education,Men,Interest in Women,TRUE,Unknown,26,Age group 26-35
+f2d2d37983ae77ded93273a28f194085,36,22.39,3.85,0,43,20,27,France,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,25,Age group 36-51
+35378b2eab618515b57dd4c3adc65236,20,9.45,0.64,1,56,18,24,Poland,Has no high school or college education,Men,Interest in Women,FALSE,Student,22,Age group 14-25
+62f10b33c311562282243fedc407430f,1,2,0,0,1,23,28,Spain,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,26,Age group 26-35
+38fb5e8645dae72a9a41b9152355d110,29,9.28,1.53,2,81,18,35,Austria,Has no high school or college education,Men,Interest in Women,FALSE,Technical artist,27,Age group 26-35
+0ad0670a7be2383c95541c27b5bbe4cf,98,14.88,3.58,1,255,18,20,Netherlands,Has no high school or college education,Men,Interest in Women,TRUE,Unknown,18,Age group 14-25
+b549af7fb7dfa41d7fc9c9907cc8bb31,27,5.15,0.22,6,177,18,25,United Kingdom,Has no high school or college education,Men,Interest in Men and Women,FALSE,Unknown,20,Age group 14-25
+f4d3b56f3cba2275588c4ecda539484d,6,70,4.35,0,17,23,28,France,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,24,Age group 14-25
+c91d9d2f4e0c5669a12c350577a54a4d,45,3.62,0.92,0,92,21,24,United Kingdom,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,24,Age group 14-25
+86869e7eeb58107a44cbb4f38e65bc28,21,14.33,1.28,0,63,18,30,Finland,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,30,Age group 26-35
+9b3e5bb925c4e824c05d8f62ce0bb95d,4,1.75,0.25,1,46,18,30,Denmark,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,25,Age group 36-51
+224f9b508b9217fa7afe0ad1d1cafdc7,27,7.52,1.71,0,38,21,26,Denmark,Has no high school or college education,Men,Interest in Women,TRUE,Unknown,22,Age group 14-25
+55f280bebc177d0fd6ec6d218dc65657,17,23.35,1.57,2,152,18,31,Poland,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,25,Age group 36-51
+85b1284e9eeab300cd2fc24ccc4092bb,84,9.48,4.08,12,473,21,30,Denmark,Has high school and/or college education,Men,Interest in Women,FALSE,Unknown,22,Age group 14-25
+3873770b8dad6de571ae9355a5a38106,52,10.67,1.09,1,75,24,31,United Kingdom,Has no high school or college education,Men,Interest in Women,FALSE,Manufacturing,28,Age group 26-35
+c856bb6c926cc0956ef32a738f74c391,71,52.51,6.66,1,77,25,40,France,Has no high school or college education,Men,Interest in Women,FALSE,Office manager,36,Age group 36-51
+99a2d980c11d540dad83d50c0115ca98,52,19.87,1.46,0,52,22,48,France,Has no high school or college education,Men,Interest in Women,FALSE,Sidi,35,Age group 26-35
+de14c049d9bc38720b566ac98a1f3998,8084,3.7,3,4408,14874,18,80,Germany,Has high school and/or college education,Women,Interest in Men,TRUE,Writer,28,Age group 26-35
+a5a0acc847342acd694520977a1b8ad2,41,17.49,1.58,0,49,18,42,France,Has no high school or college education,Men,Interest in Women,TRUE,Astronaut,29,Age group 26-35
+8d50005fe70a521f1cdb8547f08027eb,9,6,0.77,0,82,18,21,Czechia,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,19,Age group 14-25
+6e44326de993a40e45268937de72d0b8,21,0.62,0.02,19,286,18,24,Germany,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,21,Age group 14-25
+6b51aaec84438270d3e1990bdcfb7dc7,93,3.9,0.89,49,226,21,38,Germany,Has high school and/or college education,Women,Interest in Men,FALSE,Finance,25,Age group 36-51
+ec1e71dff6b269826436d859743bfd29,39,8.33,1.75,0,45,18,35,Netherlands,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,25,Age group 36-51
+66e8c1ad4e2133838f2ad2da3a8b8f0b,10,3,2.89,0,14,18,22,Spain,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,20,Age group 14-25
+b8e14604811ddb243749f099085e1153,28,3.43,0.26,0,0,18,28,Switzerland,Has no high school or college education,Men,Interest in Women,FALSE,Software engineer,24,Age group 14-25
+909b8d3966adcebb1ee94a7360423547,1,1,0,0,0,28,34,Germany,Has no high school or college education,Men,Interest in Women,FALSE,Lawyer,32,Age group 26-35
+e521c6f902062cf4f7ca12a49f9266a2,135,24.21,7.92,1,226,23,37,Romania,Has no high school or college education,Men,Interest in Women,FALSE,Data analyst & developer,27,Age group 26-35
+9fe639b934ba78f470b68f064e60580a,129,12.43,2.86,2,266,18,20,Netherlands,Has no high school or college education,Men,Interest in Women,FALSE,Ig. okkedries,18,Age group 14-25
+2f5287d6b1f3ae77b8904a29d57c1c65,2,6,0.51,0,0,25,37,Germany,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,28,Age group 26-35
+62aa91300651616a8ad151833d2575ff,540,4.22,7.92,3,925,18,22,United Kingdom,Has no high school or college education,Men,Interest in Women,TRUE,Unknown,19,Age group 14-25
+ce16d73383840dd8d0b94c2fe8a56833,8,63,2.63,0,0,18,24,Poland,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,21,Age group 14-25
+10200ebb8a674c7ac59333e7f98b4ca9,180,6.79,1.46,4,166,18,37,Germany,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,43,Age group 36-51
+5080f28d6123204e2ee769e2c661bf7a,26,2.77,0.66,0,23,18,35,Belarus,Has no high school or college education,Men,Interest in Women,FALSE,Software engeneer,22,Age group 14-25
+cde294f69662d61290d77d35c0e83d5e,343,11.27,24.49,13,823,18,29,United Kingdom,Has high school and/or college education,Men,Interest in Women,FALSE,Unknown,20,Age group 14-25
+311445c2c71471195e7f2e2599b75e79,18,1.72,0.15,1,31,18,80,Germany,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,24,Age group 14-25
+a534d21f3469086148d33ebf6bf6e05b,1,1,0,0,0,21,27,Ireland,Has no high school or college education,Men,Interest in Women,TRUE,Unknown,27,Age group 26-35
+0c40d224a9fb85e31f68546a7576232c,53,18.68,4.57,1,49,22,29,Germany,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,29,Age group 26-35
+f20e188b88fa00be19c965d77469e09f,41,7.73,8.16,0,40,18,29,Sweden,Has high school and/or college education,Men,Interest in Women,FALSE,Software developer,23,Age group 14-25
+c3b7e9c90818013e7ce447efd042dc15,32,34.12,2.35,1,83,23,33,Lithuania,Has no high school or college education,Men,Interest in Women,TRUE,Unknown,30,Age group 26-35
+dc28720327cb4a22f62eca77135742d0,6,8.5,1.13,0,15,23,40,Finland,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,27,Age group 26-35
+9b63d826dca09f44a6b56f404db0ad3c,285,5.83,2.13,8,124,18,36,Italy,Has no high school or college education,Men,Interest in Women,FALSE,Phd student,26,Age group 26-35
+0f110fdbe051dab1a7bbae9fb69c02df,177,37.84,10.36,4,277,18,80,Finland,Has no high school or college education,Men,Interest in Women,FALSE,History student,29,Age group 26-35
+24c6d6c90e25556a97d33a7e77cd1244,36,9.83,5.8,1,0,27,44,Finland,Has no high school or college education,Men,Interest in Women,FALSE,Defence consultant,44,Age group 36-51
+abb1d753a076851ec6ab882915965531,45,19.33,6.03,7,118,27,44,Finland,Has no high school or college education,Women,Interest in Men,FALSE,Unknown,32,Age group 26-35
+be1a260221d30d6b248cc4c726d2d477,2,1,0,0,6,21,31,Slovakia,Has no high school or college education,Men,Interest in Women,FALSE,Accountant,26,Age group 26-35
+a53c1aa99222ec49937bca694cd016fe,22,9.05,3.84,0,0,22,30,Finland,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,30,Age group 26-35
+06aa963a8a10585ba467b7748284c7f3,7,1.86,0.78,0,1,18,25,Germany,Has no high school or college education,Men,Interest in Women,FALSE,Master's student in computer science,23,Age group 14-25
+56e5773cf3c999ecb971ee38f07f582a,1460,3.44,7.21,271,4114,18,33,Italy,Has high school and/or college education,Men,Interest in Women,TRUE,Founding designer,19,Age group 14-25
+46d6b1f600fd23ff21c522299b10898e,6,3.67,3.26,0,0,19,25,Netherlands,Has no high school or college education,Men,Interest in Women,FALSE,Psychology student,21,Age group 14-25
+f573b82ec9defd5e1c93e026d6ab40a8,342,9.13,7.39,49,2304,18,30,Sweden,Has high school and/or college education,Men,Interest in Women,TRUE,Unknown,19,Age group 14-25
+044d0cbe394c6d182ea0f6cf5e31e0b5,24,6.25,0.55,0,0,18,25,Sweden,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,20,Age group 14-25
+41ad495592a6ffd14b1df8e5eb9b0ee3,4,1.75,0.02,0,2,18,80,Germany,Has no high school or college education,Men,Interest in Women,FALSE,Public service,35,Age group 26-35
+1b184db914808d5504d109efd30226d7,311,8.79,2.54,9,287,28,39,Finland,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,39,Age group 36-51
+19b418ce85ee67f92141aa08ac81fe09,404,10.76,8.78,61,1833,20,48,France,Has high school and/or college education,Men,Interest in Men,TRUE,Unknown,24,Age group 14-25
+dc44621fcfe6b847916858db480f4c83,85,17.31,3.27,3,54,23,32,Italy,Has no high school or college education,Men,Interest in Women,TRUE,System engineer,29,Age group 26-35
+6fbbc0195b3d48568cc1cd1b7c70c6cc,7,10.43,6.54,0,5,21,31,Finland,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,26,Age group 26-35
+ae4043fa4c00ca66694c757e99e84cc0,19,19.26,6.61,0,17,18,23,Germany,Has no high school or college education,Men,Interest in Women,TRUE,Student,20,Age group 14-25
+50cab907936c89a83f722cc998340a05,22,5.23,6.98,0,28,18,36,Czechia,Has no high school or college education,Men,Interest in Women,FALSE,Software developer,26,Age group 26-35
+3ede695b5be5bb6df045e7110f94b8e8,2,2,0.93,0,0,18,38,Romania,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,30,Age group 26-35
+e004a659d28f69df9d4609a339388391,3,21.67,2.58,0,27,18,22,France,Has no high school or college education,Men,Interest in Women,FALSE,Student,19,Age group 14-25
+63905d939927c8c064ea8f368dca1f11,100,3.35,6.69,10,158,21,37,Ireland,Has no high school or college education,Men,Interest in Women,TRUE,Financial tech,30,Age group 26-35
+9c1a63a8d134b80e1cc72bef6e1c5a2a,211,18,4.81,11,409,18,30,Finland,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,31,Age group 26-35
+c89cdd556074cb9fd3d9b6c6d5495a6f,115,4.1,2.66,4,118,18,36,Germany,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,28,Age group 26-35
+0b67ffc3b60be8ea68208250358fa61b,37,7.3,2.66,0,0,18,24,Denmark,Has no high school or college education,Men,Interest in Women,FALSE,Trader,27,Age group 26-35
+eeb97af3097b1228e668de249a15166b,14,3.29,0.06,5,163,19,24,Norway,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,19,Age group 14-25
+51209340c87da1491220f4b99f6c41ef,266,10.35,18.49,1,408,21,27,United Kingdom,Has high school and/or college education,Men,Interest in Women,TRUE,Unknown,18,Age group 14-25
+dbaa04a510676fbd81ca94eeaab51204,2,3,0.03,0,0,18,30,Finland,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,20,Age group 14-25
+1df5a2967beb889e02bdb7a277e5e874,2,9,4.58,0,0,18,40,Sweden,Has no high school or college education,Men,Interest in Women,FALSE,Webbutvecklare,36,Age group 36-51
+a6fc191746154852cc0b08c26d5bd9a8,10,13.4,1.23,0,0,18,30,Portugal,Has no high school or college education,Men,Interest in Women,FALSE,Student,22,Age group 14-25
+927beb022695b76c480eed8d011b3461,141,4.65,9.23,7,200,21,46,Iceland,Has high school and/or college education,Men,Interest in Women,TRUE,Unknown,38,Age group 36-51
+0e47097be2116331eb3e2ddccbb4a925,129,2.23,4.09,2,286,20,27,Ireland,Has high school and/or college education,Men,Interest in Women,FALSE,Computer science,22,Age group 14-25
+071c1420cb3eb5f45f5511f397726f3e,10,2.5,1.39,0,0,18,35,Italy,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,25,Age group 36-51
+2beffd6e2ee87f41752bfb0a89de567f,29,9.72,1.45,0,56,23,30,Germany,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,24,Age group 14-25
+3c159947bd2b43b5983d9e5b01b136be,9366,6.37,9.8,643,16048,18,45,Switzerland,Has no high school or college education,Men,Interest in Women,TRUE,Unknown,32,Age group 26-35
+249f1f3c083f2d230ffeb2b1a2407e7c,239,14.09,1.57,1,254,18,32,Czechia,Has no high school or college education,Men,Interest in Women,FALSE,Self-employed,22,Age group 14-25
+e42d505b420314e372ac192c0be5b7c5,0,0,0,0,0,18,23,France,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,21,Age group 14-25
+f30370a618215bebaf2364b548e37366,21,7,0.18,0,0,21,30,Netherlands,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,25,Age group 36-51
+b21ff8857d5e90ae9fb579c75ff66767,72,9.57,0.71,1,45,18,36,Spain,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,31,Age group 26-35
+a935f71ec678e425f019853362dda58d,176,4.69,3.48,1,182,18,29,Germany,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,24,Age group 14-25
+60a5335f19451f41584ee38801edc050,10,24.1,4.96,1,33,19,30,Germany,Has no high school or college education,Men,Interest in Women,FALSE,Softwaredeveloper,26,Age group 26-35
+5709abc8f96b3fb4bf2067ca321544b3,109,10.83,0.57,0,712,25,34,Poland,Has high school and/or college education,Men,Interest in Women,FALSE,Unknown,23,Age group 14-25
+615be0069495f92f668428ba1de1cda1,145,3.79,1.7,49,400,23,31,Austria,Has no high school or college education,Women,Interest in Men,FALSE,Unknown,21,Age group 14-25
+e8cb93c34fc8df3783e0adbd8eae2efe,30,4.77,0.22,0,400,21,27,Luxembourg,Has no high school or college education,Men,Interest in Women,TRUE,Ski instructor - entrepreneur,21,Age group 14-25
+2328d490260d54aa6d781595eb18bab8,5,18.4,2.93,0,56,18,23,Germany,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,20,Age group 14-25
+e37211835e97b5a61ffc4c5a21602562,172,30.45,3.59,4,336,18,80,Spain,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,20,Age group 14-25
+16a22fdad3de24d72d8509711c454ffb,473,20.35,6.23,4,13104,18,44,Finland,Has no high school or college education,Men,Interest in Women,TRUE,Software developer,19,Age group 14-25
+a5476d611884a1bdd9d34288c2c6b1fe,80,6.89,20.9,11,2032,18,18,Czechia,Has high school and/or college education,Men,Interest in Women,FALSE,Unknown,23,Age group 14-25
+933ab3a21e7f0db44ce89a0cd3086462,5,1.4,0.2,0,0,18,80,Finland,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,27,Age group 26-35
+e4742116046c34c56433697cf2d7cd92,147,23.69,4.95,1,125,18,46,Italy,Has no high school or college education,Men,Interest in Women,FALSE,Phd student,25,Age group 36-51
+983aa5c7935d2ac343f6f80f8bea4d31,29,11.59,1.55,0,14,20,25,Spain,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,24,Age group 14-25
+047b89e2fb091a0b163dc08f437ac4d7,32,7.16,3.75,0,57,18,30,Slovakia,Has high school and/or college education,Men,Interest in Women,FALSE,Unknown,20,Age group 14-25
+e7f54b0a39641fb50d2bdd4653d6093c,255,3.85,6.86,15,415,31,43,Switzerland,Has no high school or college education,Men,Interest in Women,TRUE,Unknown,38,Age group 36-51
+46f792a86d160cb35b7ebc778c71aab1,33,2.61,19.35,0,55,21,25,United Kingdom,Has no high school or college education,Men,Interest in Women,TRUE,Unknown,23,Age group 14-25
+7b486995c17837e5a78c2a361898cc63,4,1,0,0,0,18,33,United Kingdom,Has no high school or college education,Men,Interest in Women,TRUE,Teacher and musician,23,Age group 14-25
+a6ae45052f3ed7cf800a8eef9fc5b708,26,3.77,0.56,0,124,18,50,Austria,Has no high school or college education,Men,Interest in Women,FALSE,It-tech,19,Age group 14-25
+74058df41f27d9cb74cf9740b2ef7222,15,5.27,0.7,0,0,25,40,United Kingdom,Has no high school or college education,Men,Interest in Women,TRUE,It,35,Age group 26-35
+64915d73ff46ffc781651d1dbf888c3b,134,10.61,2.62,1,251,18,21,Hungary,Has no high school or college education,Men,Interest in Women,FALSE,Mechanical engineer,23,Age group 14-25
+db85a24bf536b042f9edc68e7f224d51,2,6.5,0.73,0,2,20,26,Finland,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,23,Age group 14-25
+b86ebcdc4f5b55b8107ffa7f3ab22643,378,14.44,5.22,25,1211,18,32,Finland,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,20,Age group 14-25
+a8d96263440a26da200782b3d8853c89,17,5.88,0.64,0,0,18,34,Germany,Has no high school or college education,Men,Interest in Women,FALSE,"Software developer, informatikstudent",27,Age group 26-35
+0a4d4178571ee92830da3ce13973f26f,2,29,34.01,0,20,27,37,Sweden,Has no high school or college education,Men,Interest in Women,TRUE,"Planarkitekt, stadsplanerare",33,Age group 26-35
+d83d74b27735ea150aca1cf637c51646,79,10.34,5.65,1,67,18,29,Denmark,Has no high school or college education,Men,Interest in Women,FALSE,Woke bae,20,Age group 14-25
+089f156439148cb84dbf5c68a8f7713a,134,9.96,2.23,4,114,18,23,Germany,Has no high school or college education,Men,Interest in Women,FALSE,It specialist for system integration,19,Age group 14-25
+3bae0caa42a35ed17186b825fc577aa6,305,4.6,0.47,109,833,24,80,Austria,Has high school and/or college education,Women,Interest in Men and Women,FALSE,Unknown,18,Age group 14-25
+3afc29e8a0711adaa028dd1da9748edf,94,13.95,2.17,2,138,24,31,Belgium,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,27,Age group 26-35
+dd838e84786d7309973cb0bebb6b3ce8,237,6.4,1.36,0,278,18,28,Finland,Has no high school or college education,Men,Interest in Women,FALSE,Software engineer,21,Age group 14-25
+07b60ba8e2f160140972c0046c369df3,18,51.56,1.57,0,20,19,26,Romania,Has no high school or college education,Men,Interest in Women,FALSE,Android developer,22,Age group 14-25
+db017a02933fab249424e7deecfa558c,567,11.03,5.45,44,904,25,45,Netherlands,Has high school and/or college education,Men,Interest in Men,FALSE,Music project manager,19,Age group 14-25
+0e79be0f121bee1463cdfacf7124aa20,65,9.8,14.54,0,253,25,49,Denmark,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,30,Age group 26-35
+941d5b206c586b468779fa7ab2930117,178,25.11,5.67,2,258,22,26,Belgium,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,29,Age group 26-35
+865c1f9b14bb8b7ffbfd735ae09f799f,150,17.01,3.78,4,291,25,36,Belgium,Has no high school or college education,Men,Interest in Women,FALSE,It marketeer,31,Age group 26-35
+2f64cbb8138f85660138d63ece54e2ae,1071,3.02,3.11,82,2866,18,40,Portugal,Has high school and/or college education,Men,Interest in Women,TRUE,Developer,21,Age group 14-25
+c594d9407760b25bba18af996ea9706e,10,6.2,3.4,1,0,21,31,Sweden,Has no high school or college education,Men,Interest in Women,FALSE,Devops,26,Age group 26-35
+844d07517956013cda382724d296fd66,20,24.3,2.29,7,44,18,38,Finland,Has no high school or college education,Men,Interest in Women,FALSE,3d animator,37,Age group 36-51
+d836acab91fb250cad9902c3ec0e4ea3,282,5.46,1.94,17,1131,18,35,Germany,Has high school and/or college education,Men,Interest in Women,FALSE,Emea project manager,22,Age group 14-25
+67480be3f0eaf1c1d715a295ab9340b9,98,3.28,2.14,33,694,23,80,Spain,Has high school and/or college education,Men,Interest in Women,FALSE,Unknown,20,Age group 14-25
+13b25666480a8eda5d534c20724a6791,3,10.33,0.42,0,0,18,24,Spain,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,22,Age group 14-25
+e9231d7865fdddc2cc938b4414ef8ec1,179,42.31,12.86,0,172,20,38,Netherlands,Has high school and/or college education,Men,Interest in Women,FALSE,Product owner en mede-eigenaar,25,Age group 36-51
+3fdffe72ea70895898c74ec308ff188e,16,7.69,1.88,1,0,22,33,Germany,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,33,Age group 26-35
+cc0cd04c3cdc25117d15d8735481d8c9,86,7.21,12.49,1,114,23,33,France,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,23,Age group 14-25
+f400cf377369a31551ef00d448bda349,397,10.02,4.9,11,1138,22,30,Denmark,Has high school and/or college education,Men,Interest in Men and Women,TRUE,Consultant,21,Age group 14-25
+3977295de9886c3a960885c216e247c0,104,5.88,1.02,1,0,18,23,France,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,21,Age group 14-25
+22dccf634683384d1f7f3523b741c44b,2,8,0.91,0,15,18,23,Poland,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,20,Age group 14-25
+765836ae74a0111feac984af39d46070,247,5.3,2.38,5,320,18,23,Sweden,Has no high school or college education,Men,Interest in Women,TRUE,Temporarily in production,20,Age group 14-25
+ac06d190d2c0b86f6ac2dcdb6daa5350,138,13.45,2.16,0,171,27,30,Sweden,Has no high school or college education,Men,Interest in Women,FALSE,Pilot,33,Age group 26-35
+d853ca61f980ce7c60d16670a29c9d38,152,20.62,2.44,0,170,18,80,Italy,Has no high school or college education,Men,Interest in Women,FALSE,I deal with tourists,29,Age group 26-35
+55ce58f2b0fb4330518383326e1fe4e6,385,5.39,2.5,4,464,19,28,Netherlands,Has high school and/or college education,Men,Interest in Women,FALSE,Unknown,19,Age group 14-25
+9e5dfc398e335d742b0bd887ab9c968f,4,19.5,17.67,0,4,22,28,Belgium,Has no high school or college education,Men,Interest in Women,TRUE,Unknown,23,Age group 14-25
+2090ffa934c868011795ca1d693928f5,19,6.68,2.01,2,0,25,34,United Kingdom,Has no high school or college education,Men,Interest in Women,TRUE,Scientist and lecturer,32,Age group 26-35
+144a2f98a16f208f5a90cd0a5f253bcf,13,5.46,2.28,0,24,24,34,Sweden,Has no high school or college education,Men,Interest in Women,FALSE,Receptionist,28,Age group 26-35
+0478b4b772a699fc676c7d62653fdcb5,55,10.42,6.04,1,83,20,26,Netherlands,Has high school and/or college education,Men,Interest in Women,FALSE,Unknown,19,Age group 14-25
+0e955a18aa4bc96924c75cb55d5860ac,89,7.21,1.05,10,389,21,35,United Kingdom,Has no high school or college education,Men,Interest in Women,TRUE,Unknown,26,Age group 26-35
+5642034c5da30dfe19bc98091fea5422,0,0,0,0,0,21,25,Germany,Has no high school or college education,Men,Interest in Women,FALSE,Industrial designer intern,23,Age group 14-25
+9a655bfaf59c5924c2e67390b29e8a41,35,5.26,4.78,3,232,18,25,Germany,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,20,Age group 14-25
+bef284175fa2b84be59f32c74f70fa35,144,9.18,0.47,39,498,18,80,Poland,Has no high school or college education,Men,Interest in Women,TRUE,Unknown,22,Age group 14-25
+69fcd8dd15c99f76af776c6c86377b94,15,2.67,1.39,0,0,18,21,Sweden,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,18,Age group 14-25
+3aac832e4356e8cd0a0e4ee857fe4374,71,4.52,1.94,18,0,18,29,United Kingdom,Has no high school or college education,Women,Interest in Women,FALSE,Unknown,19,Age group 14-25
+4a12c0b5dda26618836ef4f1b7570ffc,9,13.11,0.1,0,0,18,30,Estonia,Has no high school or college education,Men,Interest in Women,FALSE,Ceo of racism,20,Age group 14-25
+2a484efec17903bc9ff3082fc52ec646,82,17.41,2.43,1,108,22,26,Poland,Has no high school or college education,Men,Interest in Women,FALSE,Software engineer,23,Age group 14-25
+012f31c934343673c067978eb027edb7,532,6.65,2.13,30,2,21,44,Finland,Has no high school or college education,Men,Interest in Women,TRUE,Unknown,26,Age group 26-35
+5e71e64572c0eb04d45d5c25e057e3fa,60,7.9,1.83,0,82,18,22,Netherlands,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,18,Age group 14-25
+8fd2d72a266b78d1d59146979f8a6c27,237,6.23,1.13,3,145,20,40,Greece,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,21,Age group 14-25
+064837ad9fbfa930bacef38212c46b12,87,42.78,1.82,0,78,18,27,Poland,Has no high school or college education,Men,Interest in Women,FALSE,Operations manager,26,Age group 26-35
+6112e9d5e006dbdfa3fa5f7ee36bb3a1,737,12.15,3.63,4,1689,21,35,Poland,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,23,Age group 14-25
+0b99bec6465408c90bd3d68cd499a98a,1,0,0,1,0,18,22,Romania,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,20,Age group 14-25
+697a6343fc875eff55aa3c00324d7495,37,12.43,0.71,4,0,18,28,Ukraine,Has no high school or college education,Men,Interest in Women,FALSE,Head,36,Age group 36-51
+2dab501b6287a0cf4a8d851a10cae140,139,11.65,3.1,1,211,18,37,Germany,Has no high school or college education,Men,Interest in Women,FALSE,Private equity,26,Age group 26-35
+2073f1c2fe83c76776aa47778598c185,85,10.05,1.62,2,176,23,27,Ukraine,Has no high school or college education,Men,Interest in Women,FALSE,Snake charmer but not really,21,Age group 14-25
+397c37410237b3105d113ddde9b50b6c,19,9.58,0.53,0,0,18,25,Estonia,Has no high school or college education,Men,Interest in Women,TRUE,Unknown,20,Age group 14-25
+2e4a173c5751c2e853c33717c8245daa,158,5.51,0.97,9,617,25,35,Sweden,Has no high school or college education,Men,Interest in Women,FALSE,Civil engineer,28,Age group 26-35
+830ef88a84077b8f3b1126c4ff1c34dc,128,9.19,2.43,2,156,24,35,Poland,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,29,Age group 26-35
+90d3f123e47439091e506a4c09f90616,21,3.67,0.14,8,0,19,43,Denmark,Has no high school or college education,Women,Interest in Men,TRUE,Art teacher,19,Age group 14-25
+7c9430d4bab179ae11c228be13848e2d,87,9.32,6.1,0,86,21,29,Austria,Has no high school or college education,Men,Interest in Women,TRUE,Unknown,24,Age group 14-25
+f49745b65869c86b658713a6b89cca28,16,75.44,3.99,0,0,20,33,Croatia,Has no high school or college education,Men,Interest in Women,FALSE,Programming,29,Age group 26-35
+664565ff2f0255df5b650b8dce0005ec,251,5.83,0.75,2,0,46,55,Poland,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,51,Age group 36-51
+a0c34ee01f3ed723eecf6b5b79accf11,312,3.24,1.6,6,142,18,34,Czechia,Has no high school or college education,Men,Interest in Women,TRUE,Website owner,23,Age group 14-25
+cdc22e054cd83717a807d089a9013262,408,5.78,2.64,10,124,18,36,United Kingdom,Has no high school or college education,Men,Interest in Women,FALSE,Phd student,26,Age group 26-35
+3eea1b94bd5a16309f161d1f087e63a4,286,20.51,5.47,1,221,21,29,Belgium,Has no high school or college education,Men,Interest in Women,TRUE,Unknown,26,Age group 26-35
+8db382fef269e15ffc4f5df0d2961103,5,7.4,2.24,0,0,18,25,Italy,Has no high school or college education,Men,Interest in Women,FALSE,Medstudent,20,Age group 14-25
+b820ae241a6ee33cab7a6f9b6ff910af,17,20.41,0.69,1,0,18,33,Finland,Has no high school or college education,Men,Interest in Men,FALSE,Unknown,20,Age group 14-25
+7ca67bd425000db20d152142cef4a2e9,37,13.43,2.98,0,19,19,24,Ireland,Has no high school or college education,Men,Interest in Women,TRUE,Unknown,20,Age group 14-25
+4d453eac74cc1cc8d3af40a737a92210,47,16.64,1.12,0,53,20,45,Czechia,Has no high school or college education,Men,Interest in Women,FALSE,Software developer,22,Age group 14-25
+6af598f272d2e28c05607331a5b04841,1014,9.05,1.65,61,1099,24,33,Poland,Has no high school or college education,Women,Interest in Men,FALSE,Unknown,25,Age group 36-51
+f95b9e869a99e4771263439bbb57fc2c,6,2.33,0.13,0,8,18,26,Italy,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,21,Age group 14-25
+f4e50f22d7da6fa73589d4b0c61078a8,218,5.31,2.75,2,99,18,20,Ireland,Has no high school or college education,Men,Interest in Women,FALSE,Metal fabrication,18,Age group 14-25
+bad352e80a33fce8ae026367e03c5cf0,77,4.96,0.91,10,0,18,36,Ukraine,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,35,Age group 26-35
+b852b236e318f6278876b13b4ffcfe3f,44,4.89,1.47,6,19,24,46,Spain,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,36,Age group 36-51
+51cdaf20c7ed3e57977ac39a31fd00db,5,8,0.07,0,0,18,26,Italy,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,23,Age group 14-25
+2e4ca9ffc7af0a2ea522635936f198d9,55,11.49,2.01,14,166,18,25,Switzerland,Has no high school or college education,Women,Interest in Men,FALSE,FALSE,19,Age group 14-25
+8fbf5a51e9a3da5877a4f7fcf8273e74,51,27.69,1.7,0,57,18,23,Switzerland,Has no high school or college education,Men,Interest in Women,TRUE,Student,19,Age group 14-25
+6d5d248e2f4d651613eb1b13f4d1e20b,45,2.18,0.74,22,0,25,29,Finland,Has no high school or college education,Women,Interest in Men,FALSE,Technology strategy analyst,24,Age group 14-25
+81e78b9b9aedcd6793ebb6bb75354810,827,10.05,9.02,58,1589,20,28,Austria,Has no high school or college education,Women,Interest in Men,FALSE,Corporate risk management & legal enforcement,20,Age group 14-25
+476a9a7baee665b179173e5418f21306,158,4.83,6.31,25,832,18,22,Austria,Has no high school or college education,Men,Interest in Men,FALSE,Student,17,Age group 14-25
+7d791e31f18a4887936a450aa24a76da,59,7.17,6.28,4,99,24,38,Finland,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,33,Age group 26-35
+d11375c2cf1fa95ce2592bc3753d39da,62,5.34,2.94,1,97,20,26,Austria,Has no high school or college education,Men,Interest in Women,TRUE,Unknown,20,Age group 14-25
+3e13dc811e8600964490b0514abedfda,5,1.6,0.06,1,6,18,25,Hungary,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,21,Age group 14-25
+bb067fbb95a92863396c916849a87632,91,6.95,3.06,1,93,18,25,Sweden,Has no high school or college education,Men,Interest in Women,TRUE,Unknown,18,Age group 14-25
+8dca730276a6ae9ae18f56492c2b6eaf,28,8.86,0.85,0,0,18,30,Belgium,Has no high school or college education,Men,Interest in Men and Women,FALSE,Unknown,25,Age group 36-51
+d8d4dee2580543df2cefe3f674542f7d,274,12.97,5.4,3,23,18,27,France,Has no high school or college education,Men,Interest in Women,FALSE,Software engineer,21,Age group 14-25
+708fb985a2edb7852d6165b06a9e4583,2,4.5,0.39,0,0,18,38,Poland,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,23,Age group 14-25
+69e66b7860ea5b684558207a04753621,50,5.68,7.15,0,2,18,30,Germany,Has no high school or college education,Men,Interest in Men and Women,TRUE,Unknown,19,Age group 14-25
+518a6e149e8c8da3d0ef421dc9775b95,84,48.86,9.52,0,88,18,22,Germany,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,18,Age group 14-25
+a26db03ee5fa0e0900808f009c4bd2ff,198,8.03,3.06,0,0,18,22,Ireland,Has no high school or college education,Men,Interest in Women,TRUE,Covid officer,19,Age group 14-25
+7d0bbc373433dd7c6a502abffb811fe1,11,3.55,1.02,3,5,26,32,Switzerland,Has no high school or college education,Men,Interest in Women,FALSE,Commodity trading,31,Age group 26-35
+6a8c38e857582fde578b03a5d54960f1,8,3.75,0.25,1,2,18,30,Poland,Has no high school or college education,Men,Interest in Women,TRUE,Robotics engineer,30,Age group 26-35
+ae82ca90c68b22112b705104b8e5293d,1208,3.34,7,146,4998,18,38,Sweden,Has high school and/or college education,Men,Interest in Men and Women,FALSE,Programmer,21,Age group 14-25
+ab72cc27d7fa34dde8ee95b2cfe7343b,71,42.03,4.69,2,87,23,30,Poland,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,28,Age group 26-35
+ced2d6a7a24356fd99c96ef65336e2dd,30,2.87,0.63,0,0,20,35,Denmark,Has no high school or college education,Men,Interest in Women,FALSE,Software engineer,29,Age group 26-35
+f22c62e019a90094d27ac2ff0e56ec4e,85,1.88,0.16,1,0,18,21,Poland,Has no high school or college education,Men,Interest in Women,FALSE,Programista,22,Age group 14-25
+cca63c060603aa8c82aecc3f6bd64b41,265,28.62,9.35,5,573,18,22,Germany,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,19,Age group 14-25
+b7e5c5e31b8025ea9c6f02522a089b3e,22,2.68,0.34,1,9,18,29,Germany,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,18,Age group 14-25
+cb1301214afde78703c05776cfa8f478,175,9.55,0.31,37,0,23,27,Netherlands,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,27,Age group 26-35
+1ae2776de35aa8c8872684317ba0d310,36,30.81,2.64,0,49,20,80,Finland,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,28,Age group 26-35
+ac81aa33a9c915d158798182e3b262ea,1,1,0,0,0,18,21,Hungary,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,22,Age group 14-25
+34671171b8f415e2d5cc94b054e62402,1331,4.28,2.43,348,1900,22,38,United Kingdom,Has no high school or college education,Women,Interest in Men,FALSE,Works,20,Age group 14-25
+094389961e41af5e1edf68cb19430c6d,4,4.75,0.11,0,0,20,50,Bulgaria,Has no high school or college education,Men,Interest in Women,FALSE,Software engineer,22,Age group 14-25
+bcd34f6421d3087904953997be1975fa,139,11.33,24.09,0,204,19,29,United Kingdom,Has high school and/or college education,Men,Interest in Women,FALSE,Unknown,21,Age group 14-25
+e216c47cd2b1a9bc89059c53b997dddc,105,8.1,1.34,1,0,18,21,Germany,Has no high school or college education,Men,Interest in Women,TRUE,Unknown,19,Age group 14-25
+d860a42e5189de688cc289164329e0c8,194,4.63,3.18,17,571,28,38,Denmark,Has no high school or college education,Women,Interest in Men,TRUE,Unknown,26,Age group 26-35
+7901ffcca79f6c10ba7fc6efcdf01bd1,29,3.24,1.11,1,0,18,29,Germany,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,37,Age group 36-51
+781c99875091d59d7411de2458a35220,176,22.18,2.7,12,3,22,30,Czechia,Has no high school or college education,Men,Interest in Women,FALSE,Software developer,29,Age group 26-35
+82ff59c3bc2a29718ed481bc1ad99ad4,0,0,0,0,0,25,31,Spain,Has no high school or college education,Men,Interest in Women,FALSE,Data analyst & software developer,29,Age group 26-35
+53ade31c0fa69e530bd79d0c71dbe60b,96,49.47,6.1,1,484,26,36,Romania,Has high school and/or college education,Men,Interest in Women,FALSE,Unknown,26,Age group 26-35
+e2379c35029c6c397fb426b03a760fbb,390,22.16,4.54,1,422,32,42,Sweden,Has high school and/or college education,Men,Interest in Women,FALSE,Unknown,33,Age group 26-35
+e44c5663205c908e4c90b2384aa86ba0,102,3.88,3.15,10,206,18,26,Austria,Has no high school or college education,Men,Interest in Women,FALSE,FALSE,20,Age group 14-25
+dee7603ebbd52dc35f2be2870eadb69f,32,2.53,0.41,1,53,28,36,Sweden,Has no high school or college education,Men,Interest in Women,FALSE,Entrepreneur,32,Age group 26-35
+2ed9b8c1a0a87b0cd467564ba7b48674,166,5.24,1.49,72,998,25,34,Switzerland,Has high school and/or college education,Men,Interest in Women,FALSE,Hedge fund quant trader,28,Age group 26-35
+cef082b2d0c4dbc4cc8de530c0dba814,37,7.43,3.59,3,0,18,40,Germany,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,29,Age group 26-35
+87fc707a151200c21d2e4a93a308367b,2,2,0.01,0,1,23,24,Ireland,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,35,Age group 26-35
+2d4a4bd7bc9aba7594474bd86f2b3c49,36,20.47,1.12,5,0,29,41,Portugal,Has no high school or college education,Men,Interest in Women,TRUE,Unknown,42,Age group 36-51
+fc5059c75bfd4b3dbcf8da98369b0ebb,27,3.78,1.35,0,0,23,32,United Kingdom,Has no high school or college education,Men,Interest in Women,FALSE,Business analyst,28,Age group 26-35
+16d1e23daa9692d9cdaa2f0e3236da1f,3,4.33,12.97,0,0,18,28,Switzerland,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,23,Age group 14-25
+da6c9dd8c88e39c085738eb518f61b33,35,36.86,0.65,0,0,27,47,Spain,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,47,Age group 36-51
+41725ef546507180eb9ca538fe6035be,7,3.86,0.27,0,15,21,36,United Kingdom,Has high school and/or college education,Men,Interest in Women,TRUE,Accountant,30,Age group 26-35
+9621a1584faba5aae6169514a71440e2,556,6.49,2.16,1,595,18,35,Czechia,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,22,Age group 14-25
+d953c7eca437b518882d962c5ab861f1,1,1,0,0,0,20,25,United Kingdom,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,22,Age group 14-25
+41057dde348f41e75e4e4a21e87c711a,5,20.8,1,0,0,18,22,Belgium,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,19,Age group 14-25
+46814a7241a41a3c75c62206153c98e6,26,4.65,3.58,7,42,22,36,United Kingdom,Has no high school or college education,Men,Interest in Women,FALSE,Team leader,33,Age group 26-35
+aba822811a3273e8fb4e1078d1ba1098,28,20.07,1.4,0,0,22,35,Germany,Has no high school or college education,Men,Interest in Women,FALSE,Data scientist,31,Age group 26-35
+0691682dcf631e68e87a71eda567bc71,157,9.21,2.16,49,0,22,28,Poland,Has no high school or college education,Women,Interest in Men,FALSE,Unknown,22,Age group 14-25
+599fc7d0cab0f20d0e5e0bb909125e6e,253,9.47,2.57,26,326,22,28,Poland,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,26,Age group 26-35
+6b83141d06b457fb4e31acb4f1eb4f56,196,37.71,2.66,12,435,32,45,Finland,Has high school and/or college education,Women,Interest in Men,FALSE,Senior designer,35,Age group 26-35
+592b51ca32aaa04778fa6a9eb157b30d,44,5.7,1.11,0,0,21,31,Poland,Has no high school or college education,Men,Interest in Women,FALSE,Programista,27,Age group 26-35
+3d100f3cc6893537de89fe3db21aa471,1890,6.32,7.28,11,1861,18,33,France,Has high school and/or college education,Men,Interest in Women,FALSE,Unknown,25,Age group 36-51
+c5e4694fbe61bc166d5ea91e6c614826,25,11.12,0.79,5,0,20,30,United Kingdom,Has no high school or college education,Men,Interest in Women,FALSE,Parts advisor,24,Age group 14-25
+f4f2f8f760e8287385ac0aadb766d44b,11,16.27,0.35,0,0,25,30,Spain,Has no high school or college education,Men,Interest in Women,FALSE,Global trials coordinator,29,Age group 26-35
+11629739155f074792d92e9ce585b9d1,1,1,0,0,0,28,37,Sweden,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,27,Age group 26-35
+637502c2c33eaef7503f0f820a6d65fa,50,6.82,1.93,8,184,21,41,United Kingdom,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,31,Age group 26-35
+f387a2f3950ea4171b9b4c62037d36e4,12,4.08,0.33,1,73,21,30,Germany,Has no high school or college education,Men,Interest in Women,FALSE,Rechtsreferendar,29,Age group 26-35
+bc9f2bd044e3dbb3e86f97cb1fd9e926,50,4.6,7.31,6,93,25,35,United Kingdom,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,31,Age group 26-35
+1e64f181e913cf4b40bc2b3753eec7d9,67,19.72,0.31,9,0,18,28,Romania,Has no high school or college education,Men,Interest in Women,TRUE,Nightcore listener 2012,19,Age group 14-25
+15db817929a8617e226df7a81b72a8f9,2,24.5,0.74,0,0,24,32,Belgium,Has no high school or college education,Men,Interest in Women,FALSE,Video editor,28,Age group 26-35
+a4b793d372df15fb545ca8cdaeda1e98,284,9.33,1.63,127,67,23,28,France,Has no high school or college education,Women,Interest in Men and Women,FALSE,FALSE,19,Age group 14-25
+a22d346babb09a4360bb2b1d3b037eb8,5,6.2,0.69,0,0,25,29,Austria,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,29,Age group 26-35
+5cf49f6384a8f0479553e17171bbdd53,48,8.02,19.01,2,129,25,30,Italy,Has no high school or college education,Men,Interest in Women,FALSE,Application development analyst,26,Age group 26-35
+02a7ad3f6f810ea8f87e64ed0b01b69c,106,2.08,8.12,12,776,20,30,United Kingdom,Has high school and/or college education,Men,Interest in Women,FALSE,Product engineer,15,Age group 14-25
+ee5be88ba7e5510a0158c3e4b634c8b2,34,5.74,0.46,4,0,20,27,United Kingdom,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,25,Age group 36-51
+22affdce600ea57e85677cf32c0c490d,14,7.5,0.83,0,0,18,30,Germany,Has no high school or college education,Men,Interest in Women,FALSE,It kaufmann,18,Age group 14-25
+f59c6dc819abce7773b3f1d16cf7a7df,61,13.21,1.91,0,101,18,31,Spain,Has no high school or college education,Men,Interest in Women,TRUE,Unknown,20,Age group 14-25
+fc916927776a03ba0a6421fb50b81c66,2,3,0.5,0,0,21,33,Italy,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,26,Age group 26-35
+410ebe2a89343d83d66dbc109c7e2af9,3,7.67,4.35,0,5,19,26,Switzerland,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,22,Age group 14-25
+916cbb0c80e0ca6b2b3d4b6576ac52c6,362,9.53,2.15,2,248,18,40,Finland,Has no high school or college education,Men,Interest in Men and Women,FALSE,Unknown,34,Age group 26-35
+b3bd98372fa6b9072cc52860581742b8,85,9.51,8.22,16,99,21,26,Germany,Has no high school or college education,Women,Interest in Men,FALSE,Unknown,20,Age group 14-25
+04a9c4f4c31ed90667a9d54369b353e8,3,3.33,1.12,0,0,18,25,Belgium,Has no high school or college education,Men,Interest in Women,FALSE,Eventhulpverlener,22,Age group 14-25
+3d7a0017837bee26d97d93a74894c4f1,12,19.08,2.91,0,0,19,27,Belgium,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,23,Age group 14-25
+6f8d4b4d6a07344e0ba1f5020f110cf7,144,8.05,1.45,0,438,25,34,Ireland,Has no high school or college education,Men,Interest in Women,FALSE,It helpdesk engineer,24,Age group 14-25
+4bc492e5a9626a4ba3e2ee8dcf7c73b1,176,6.35,12.23,10,231,18,40,Greece,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,18,Age group 14-25
+30b3ec623d0c91c7bdeb1122924fd491,5,9.6,5.36,0,0,18,23,Portugal,Has no high school or college education,Men,Interest in Women,FALSE,Web developer,24,Age group 14-25
+6143957529bb461e538b73deef73b1fb,37,20.59,2.36,2,181,21,30,Netherlands,Has high school and/or college education,Women,Interest in Men and Women,FALSE,Unknown,21,Age group 14-25
+60f3e23dba075c2c03a8fbf62c7df5fe,32,31.66,3.33,3,0,21,30,Lithuania,Has no high school or college education,Men,Interest in Women,FALSE,Graphic designer,24,Age group 14-25
+c83a223af895fe72dbf7f9d590659f45,51,2.41,1.06,0,57,19,24,Germany,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,23,Age group 14-25
+3344657a51768dadf01803d4523111e8,81,5.85,1.79,0,108,23,35,United Kingdom,Has high school and/or college education,Men,Interest in Women,TRUE,Unknown,18,Age group 14-25
+94400c76b2a67e2f4fd4c7c21c1b4b2e,252,3.52,1.21,62,957,18,37,Germany,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,22,Age group 14-25
+9b92791f6cf5fd6ac53f4c524f8d0462,698,8.84,2.25,157,481,18,22,Finland,Has no high school or college education,Women,Interest in Men,FALSE,Professional dick rider,18,Age group 14-25
+99afa3908fc379c493f9a519068ed34f,347,13,4.9,70,1776,18,37,Belgium,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,22,Age group 14-25
+3668350632daf9e9d747c7c6783b5a3f,15,5.6,0.69,0,0,21,37,Italy,Has no high school or college education,Men,Interest in Women,FALSE,FALSE,29,Age group 26-35
+64be5adac2f06bade2217041ec34a64c,12,3.25,0.79,0,0,20,27,Switzerland,Has no high school or college education,Men,Interest in Women,FALSE,Software engineer,25,Age group 36-51
+993197e249309565b267eb178d40d298,196,3.67,3.58,18,566,25,32,Sweden,Has high school and/or college education,Men,Interest in Women,FALSE,Unknown,23,Age group 14-25
+4777746e8f32fc793063013e210d30a0,49,29.33,0.96,5,0,18,40,Spain,Has no high school or college education,Men,Interest in Women,TRUE,Phd data scientist,36,Age group 36-51
+0b80dee11c20dfb354d2845c2776f539,4,1,0,0,0,18,36,Germany,Has no high school or college education,Men,Interest in Women,FALSE,Something with computers,33,Age group 26-35
+0f9ecf65b113bb8bbff9b1e997913eba,37,2.92,1.62,1,77,20,28,Germany,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,23,Age group 14-25
+6ea6aaad5be271c433d83b1a1959cde6,0,0,0,0,1,18,35,Denmark,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,24,Age group 14-25
+735f47cf6ca1c55946fe1602e5db2340,66,10.15,8.56,19,224,18,44,France,Has no high school or college education,Men,Interest in Men,FALSE,FALSE,20,Age group 14-25
+98b0577ca2ce1ebdf600d356bcb36f6e,42,7.95,1,0,11,18,48,United Kingdom,Has no high school or college education,Men,Interest in Men and Women,FALSE,Unknown,30,Age group 26-35
+e0fc55fe6b0aa36e0f8e3ba894cabdb0,58,16.9,3.8,0,0,19,45,United Kingdom,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,19,Age group 14-25
+13686a2ede867585d527e8b53e1f9c44,570,9.88,1.05,2,408,18,23,United Kingdom,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,21,Age group 14-25
+051a7c11c88f5db3496e2a0d26db0b30,12,2.75,1.5,3,0,35,44,Germany,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,39,Age group 36-51
+f332772c283a67966ac34a3828d4e764,28,5.14,0.87,7,22,21,32,Ukraine,Has no high school or college education,Men,Interest in Women,TRUE,Software engineer,30,Age group 26-35
+36d04ce118eb834ec946e52bac926337,49,4.14,0.41,1,61,20,24,Russia,Has no high school or college education,Men,Interest in Women,FALSE,FALSE,23,Age group 14-25
+ec84081bb1c7633d2f82448d86876aaa,415,5.47,2.28,101,1476,19,35,United Kingdom,Has no high school or college education,Men,Interest in Men,FALSE,Unknown,20,Age group 14-25
+f8f2f0d09208b776a16a7ff11bbacf8d,1642,4.45,1.09,38,890,18,25,United Kingdom,Has no high school or college education,Men,Interest in Women,FALSE,Carer,19,Age group 14-25
+bc0189c82badc5200c14ae3348313686,1,3,0,0,0,20,25,United Kingdom,Has no high school or college education,Men,Interest in Women,FALSE,Civil engineer,23,Age group 14-25
+60c3a94181598f70b635fe33ea2770f0,23,6.09,0.71,3,11,18,25,Belgium,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,22,Age group 14-25
+f9c5d69262018174f70a3f80c00840db,8,12.88,1.28,0,0,18,40,Netherlands,Has no high school or college education,Men,Interest in Women,FALSE,Software developer,27,Age group 26-35
+d22a435c59f33741a8309c1b92c93977,254,2.44,1.51,74,626,20,27,Austria,Has no high school or college education,Men,Interest in Women,FALSE,Unknown,23,Age group 14-25
+ae07095ee64c0423353ee5991fad5de1,443,8.56,0.94,31,766,19,23,United Kingdom,Has no high school or college education,Men,Interest in Men and Women,FALSE,Unknown,19,Age group 14-25
